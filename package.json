@@ -1,0 +1,24 @@
+{
+  "name": "droden",
+  "version": "1.0.0",
+  "description": "pdf 分页问题;包括表格分页问题处理;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjainxi/pdfDownload.git"
+  },
+  "keywords": [
+    "pdf",
+    "page",
+    "download"
+  ],
+  "author": "dorden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjainxi/pdfDownload/issues"
+  },
+  "homepage": "https://github.com/wangjainxi/pdfDownload#readme"
+}

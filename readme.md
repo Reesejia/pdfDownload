@@ -1,3 +1,6 @@
+> 解决pdf下载问题通用方案，可以实现普通模块和表单、表格的分页下载；
+> 此版本是基于vue elementui；
+> 如果技术栈是react，可以把elementui 中的表格className 换成使用的ui组件库的className，比如antd-design
 ## 说明
 - Print class
     - 根据传入的要打印的模块启动dfs搜索
